@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RoutingusingReactRouterPart-3/static/css/main.37e88ec2.chunk.css",
+    "main.js": "/RoutingusingReactRouterPart-3/static/js/main.b4ae3c9f.chunk.js",
+    "main.js.map": "/RoutingusingReactRouterPart-3/static/js/main.b4ae3c9f.chunk.js.map",
+    "runtime-main.js": "/RoutingusingReactRouterPart-3/static/js/runtime-main.62a61a1f.js",
+    "runtime-main.js.map": "/RoutingusingReactRouterPart-3/static/js/runtime-main.62a61a1f.js.map",
+    "static/css/2.7a8f3fa9.chunk.css": "/RoutingusingReactRouterPart-3/static/css/2.7a8f3fa9.chunk.css",
+    "static/js/2.7ee77756.chunk.js": "/RoutingusingReactRouterPart-3/static/js/2.7ee77756.chunk.js",
+    "static/js/2.7ee77756.chunk.js.map": "/RoutingusingReactRouterPart-3/static/js/2.7ee77756.chunk.js.map",
+    "index.html": "/RoutingusingReactRouterPart-3/index.html",
+    "static/css/2.7a8f3fa9.chunk.css.map": "/RoutingusingReactRouterPart-3/static/css/2.7a8f3fa9.chunk.css.map",
+    "static/css/main.37e88ec2.chunk.css.map": "/RoutingusingReactRouterPart-3/static/css/main.37e88ec2.chunk.css.map",
+    "static/js/2.7ee77756.chunk.js.LICENSE.txt": "/RoutingusingReactRouterPart-3/static/js/2.7ee77756.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62a61a1f.js",
+    "static/css/2.7a8f3fa9.chunk.css",
+    "static/js/2.7ee77756.chunk.js",
+    "static/css/main.37e88ec2.chunk.css",
+    "static/js/main.b4ae3c9f.chunk.js"
+  ]
+}
